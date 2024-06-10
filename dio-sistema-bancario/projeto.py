@@ -13,7 +13,6 @@ extrato = []
 numeros_saques = 0
 limite_saques = 4
 contador_saques = 0 
-movimentacao = 0 
 
 while True: 
 
